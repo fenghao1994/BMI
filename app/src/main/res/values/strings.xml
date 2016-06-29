@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="BMI">BMI</string>
+    <string name="input_weight">请输入你的体重(kg)</string>
+    <string name="input_height">请输入你的身高(m)</string>
+    <string name="calculate">确定</string>
+    <string name="about_bmi">BMI[Body Mass Index] 即BMI指数,也叫身体质量指数,是衡量是否肥胖和标准体重的重要指标。
+        BMI是体重(公斤)除以身高(米)的二次方的值。</string>
+</resources>
